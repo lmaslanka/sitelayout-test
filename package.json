@@ -1,0 +1,24 @@
+{
+  "name": "sitelayout-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmaslanka/sitelayout-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmaslanka/sitelayout-test/issues"
+  },
+  "homepage": "https://github.com/lmaslanka/sitelayout-test#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "install": "^0.10.1",
+    "npm": "^4.5.0"
+  }
+}
